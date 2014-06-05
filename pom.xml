@@ -14,13 +14,12 @@
   ~    limitations under the License.
   -->
 
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.wiperdog</groupId>
     <artifactId>netty-servlet-bridge</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.0.1</version>
     <name>netty-servlet-bridge</name>
     <url>http://maven.apache.org</url>
   <parent>
@@ -39,7 +38,7 @@
     <url>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</url>
     <connection>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</connection>
     <developerConnection>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v1.0.1</tag>
   </scm>
 
     <dependencies>
