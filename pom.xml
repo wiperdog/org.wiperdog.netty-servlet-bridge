@@ -20,9 +20,27 @@
     <groupId>org.wiperdog</groupId>
     <artifactId>netty-servlet-bridge</artifactId>
     <packaging>bundle</packaging>
-    <version>1.0.1</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>netty-servlet-bridge</name>
     <url>http://maven.apache.org</url>
+  <parent>
+  	<artifactId>wiperdog-parent</artifactId>
+  	<groupId>org.wiperdog</groupId>
+  	<version>0.1.0</version>
+  </parent>
+  <licenses>
+    <license>
+      <name>The Apache Software License, Version 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <scm>
+    <url>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</url>
+    <connection>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</connection>
+    <developerConnection>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</developerConnection>
+    <tag>HEAD</tag>
+  </scm>
 
     <dependencies>
         <dependency>
