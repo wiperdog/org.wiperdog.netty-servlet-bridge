@@ -22,6 +22,11 @@
     <version>1.0.2-SNAPSHOT</version>
     <name>netty-servlet-bridge</name>
     <url>http://maven.apache.org</url>
+    <properties>
+      <bundle.symbolicName>org.wiperdog.netty-servlet-bridge</bundle.symbolicName>
+      <bundle.namespace>org.wiperdog.netty-servlet-bridge</bundle.namespace>
+    </properties>
+
   <parent>
   	<artifactId>wiperdog-parent</artifactId>
   	<groupId>org.wiperdog</groupId>
