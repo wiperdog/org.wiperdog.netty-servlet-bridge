@@ -20,7 +20,7 @@
     <artifactId>org.wiperdog.netty-servlet-bridge</artifactId>
     <packaging>bundle</packaging>
     <version>1.0.2-SNAPSHOT</version>
-    <name>netty-servlet-bridge</name>
+    <name>org.wiperdog.netty-servlet-bridge</name>
     <url>http://maven.apache.org</url>
     <properties>
       <bundle.symbolicName>org.wiperdog.netty-servlet-bridge</bundle.symbolicName>
@@ -40,9 +40,9 @@
     </license>
   </licenses>
   <scm>
-    <url>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</url>
-    <connection>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</connection>
-    <developerConnection>scm:git:https://github.com/wiperdog/netty-servlet-bridge.git</developerConnection>
+    <url>scm:git:https://github.com/wiperdog/org.wiperdog.netty-servlet-bridge.git</url>
+    <connection>scm:git:https://github.com/wiperdog/org.wiperdog.netty-servlet-bridge.git</connection>
+    <developerConnection>scm:git:https://github.com/wiperdog/org.wiperdog.netty-servlet-bridge.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
